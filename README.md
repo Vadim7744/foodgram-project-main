@@ -83,4 +83,6 @@ sudo docker-compose up -d --build
     sudo docker-compose exec backend python manage.py createsuperuser
     ```
     - Проект будет доступен по вашему IP
--Dovgopol Vadim -https://github.com/Vadim7744
+
+-Dovgopol Vadim 
+-https://github.com/Vadim7744
