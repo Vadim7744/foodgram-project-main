@@ -1,7 +1,7 @@
 ## Подготовка и запуск проекта
 ### Склонировать репозиторий на локальную машину:
 ```
-git clone https://github.com/NIK-TIGER-BILL/foodgram-project-react
+git clone https://github.com/Vadim7744/foodgram-project-main
 ```
 ## Для работы с удаленным сервером (на ubuntu):
 * Выполните вход на свой удаленный сервер
